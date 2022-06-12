@@ -1,0 +1,60 @@
+# LeetCode Problem Solutions
+
+-   **[1. Two Sum](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/1.two-sums)**
+-   **[2. Add Two Numbers](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/2.add-two-numbers)**
+-   **[3. Longest Substring Without Repeating Characters](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/3.longest-substring-without-repeating-characters)**
+-   **[4. Median of Two Sorted Arrays](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/4.median-of-two-sorted-arrays)**
+-   **[7. Reverse Integer](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/7.reverse-integer)**
+-   **[8. String to Integer - atoi](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/8.string-to-integer)**
+-   **[9. Palindrome Number](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/9.palindrome-number)**
+-   **[13. Roman to Integer](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/13.roman-to-integer)**
+-   **[19. Remove Nth Node From End of List](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/19.remove-nth-node-from-end-of-list)**
+-   **[24. Swap Nodes in Pairs](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/24.swap-nodes-in-pairs)**
+-   **[26. Remove Duplicates from Sorted Array](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/26.remove-duplicates-from-sorted-array)**
+-   **[27. Remove Element](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/27.remove-element)**
+-   **[34. Find First and Last Position of Element in Sorted Array](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/34.find-first-and-last-position-of-element)**
+-   **[36. Valid Sudoku](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/36.valid-sudoku)**
+-   **[58. Length of Last Word](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/58.length-of-last-word)**
+-   **[69. Sqrt(x)](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/69.sqrt-of-x)**
+-   **[74. Search a 2D Matrix](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/74.search-a-2d-matrix)**
+-   **[88. Merge Sorted Array](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/88.merge-sorted-array)**
+-   **[94. Binary Tree In-Order Traversal](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/94.binary-tree-inorder-traversal)**
+-   **[102. Binary Tree Level Order Traversal](https://github.com/Razeen-Shaaikh/problem-solving/tree/master/leetcode//102.binary-tree-level-order-traversal)**
+-   **[104. Maximum Depth of Binary Tree](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/104.maximum-depth-of-binary-tree)**
+-   **[118. Pascal's Triangle](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/118.pascal's-triangle)**
+-   **[136. Single Number](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/136.single-number)**
+-   **[144. Binary Tree Pre Order Traversal](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/144.binary-tree-pre-order-traversal)**
+-   **[145. Binary Tree Post-Order Traversal](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/145.binary-tree-post-order-traversal)**
+-   **[203. Remove Linked List Elements](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/203.remove-linked-list-elements)**
+-   **[206. Reverse Linked List](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/206.reverse-linked-list)**
+-   **[217. Contains Duplicate](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/217.contains-duplicate)**
+-   **[226. Invert Binary Tree](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/226.invert-binary-tree)**
+-   **[240. Search a 2D Matrix II](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/240.search-a-2d-matrix-ii)**
+-   **[242. Valid Anagram](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/242.valid-anagram)**
+-   **[258. Add Digits](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/258.add-digits)**
+-   **[283. Move Zeroes](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/283.move-zeroes)**
+-   **[344. Reverse String](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/344.reverse-string)**
+-   **[350. Intersection of Two Arrays II](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/350.intersection-of-two-arrays-ii)**
+-   **[383. Ransom Note](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/383.ransom-note)**
+-   **[387. First Unique Character in a String](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/387.first-unique-character-in-a-string)**
+-   **[414. Third Maximum Number](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/414.third-maximum-number)**
+-   **[448. Find All Numbers Disappeared in an Array](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/448.find-all-numbers-disappeared-in-an-array)**
+-   **[461. Hamming Distance](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/461.hamming-distance)**
+-   **[485. Max Consecutive Ones](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/485.max-consecutive-ones)**
+-   **[509. Fibonacci Number](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/509.fibonacci-number)**
+-   **[520. Detect Capital](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/520.detect-capital)**
+-   **[540. Single Element in a Sorted Array](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/540.single-element-in-a-sorted-array)**
+-   **[700. Search in a Binary Search Tree](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/700.search-in-a-binary-search-tree)**
+-   **[905. Sort Array By Parity](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/905.sort-array-by-parity)**
+-   **[912. Sort an Array](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/912.sort-an-array)**
+-   **[941. Valid Mountain Array](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/941.valid-mountain-array)**
+-   **[977. Squares of a Sorted Array](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/977.squares-of-a-sorted-array)**
+-   **[1010. Pairs of Songs With Total Durations Divisible by 60](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/1010.pairs-of-a-sorted-array)**
+-   **[1051. Height Checker](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/1051.height-checker)**
+-   **[1089. Duplicate Zeros](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/1089.duplicate-zeros)**
+-   **[1290. Convert Binary Number in a Linked List to Integer](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/1290.convert-binary-number-in-a-linked-list-to-integer)**
+-   **[1295. Find Numbers with Even Number of Digits](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/1295.find-numbers-with-even-number-of-digits)**
+-   **[1299. Replace Elements with Greatest Element on Right Side](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/1299.replace-elements-with-greatest-element-on-right-side)**
+-   **[1346. Check If N and Its Double Exist](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/1346.check-if-n-and-its-double-exist)**
+-   **[1351. Count Negative Numbers in a Sorted Matrix](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/1351.count-negative-numbers-in-a-sorted-matrix)**
+-   **[1721. Swapping Nodes in a Linked List](https://github.com/Razeen-Shaikh/problem-solving/tree/master/leetcode/1721.swapping-nodes-in-a-linked-list)**
