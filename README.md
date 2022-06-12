@@ -1,7 +1,7 @@
 # LeetCode Problem Solutions
 
 -   **[1. Two Sum](https://github.com/Razeen-Shaikh/leetcode/tree/main/1.two-sums)**
--   **[2. Add Two Numbers](https://github.com/Razeen-Shaikh/leetcode/tree/main/2.add-two-numbers)**
+-   **[2. Add Two Numbers](https://github.com/Razeen-Shaikh/leetcode/tree/main/0002.add-two-numbers)**
 -   **[3. Longest Substring Without Repeating Characters](https://github.com/Razeen-Shaikh/leetcode/tree/main/3.longest-substring-without-repeating-characters)**
 -   **[4. Median of Two Sorted Arrays](https://github.com/Razeen-Shaikh/leetcode/tree/main/4.median-of-two-sorted-arrays)**
 -   **[7. Reverse Integer](https://github.com/Razeen-Shaikh/leetcode/tree/main/7.reverse-integer)**
