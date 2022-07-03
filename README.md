@@ -57,4 +57,6 @@
 -   **[1299. Replace Elements with Greatest Element on Right Side](https://github.com/Razeen-Shaikh/leetcode/tree/main/1299.replace-elements-with-greatest-element-on-right-side)**
 -   **[1346. Check If N and Its Double Exist](https://github.com/Razeen-Shaikh/leetcode/tree/main/1346.check-if-n-and-its-double-exist)**
 -   **[1351. Count Negative Numbers in a Sorted Matrix](https://github.com/Razeen-Shaikh/leetcode/tree/main/1351.count-negative-numbers-in-a-sorted-matrix)**
+-   **[1480. Running Sum of 1d Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/1480.running-sum-of-1d-array)**
 -   **[1721. Swapping Nodes in a Linked List](https://github.com/Razeen-Shaikh/leetcode/tree/main/1721.swapping-nodes-in-a-linked-list)**
+-   **[2018. Find First Palindromic String in the Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/2018.find-first-palindromic-string-in-the-array)**
