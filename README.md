@@ -45,6 +45,7 @@
 -   **[520. Detect Capital](https://github.com/Razeen-Shaikh/leetcode/tree/main/0520.detect-capital)**
 -   **[540. Single Element in a Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/0540.single-element-in-a-sorted-array)**
 -   **[700. Search in a Binary Search Tree](https://github.com/Razeen-Shaikh/leetcode/tree/main/0700.search-in-a-binary-search-tree)**
+-   **[724. Find Pivot Index](https://github.com/Razeen-Shaikh/leetcode/tree/main/724.find-pivot-index)**
 -   **[905. Sort Array By Parity](https://github.com/Razeen-Shaikh/leetcode/tree/main/0905.sort-array-by-parity)**
 -   **[912. Sort an Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/0912.sort-an-array)**
 -   **[941. Valid Mountain Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/0941.valid-mountain-array)**
