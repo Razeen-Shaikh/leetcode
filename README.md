@@ -9,6 +9,7 @@
 -   **[9. Palindrome Number](https://github.com/Razeen-Shaikh/leetcode/tree/main/0009.palindrome-number)**
 -   **[13. Roman to Integer](https://github.com/Razeen-Shaikh/leetcode/tree/main/0013.roman-to-integer)**
 -   **[19. Remove Nth Node From End of List](https://github.com/Razeen-Shaikh/leetcode/tree/main/0019.remove-nth-node-from-end-of-list)**
+-   **[21. Merge Two Sorted Lists](https://github.com/Razeen-Shaikh/leetcode/tree/main/0019.merge-two-sorted-lists)**
 -   **[24. Swap Nodes in Pairs](https://github.com/Razeen-Shaikh/leetcode/tree/main/0024.swap-nodes-in-pairs)**
 -   **[26. Remove Duplicates from Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/0026.remove-duplicates-from-sorted-array)**
 -   **[27. Remove Element](https://github.com/Razeen-Shaikh/leetcode/tree/main/0027.remove-element)**
