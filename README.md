@@ -27,6 +27,7 @@
 -   **[144. Binary Tree Pre Order Traversal](https://github.com/Razeen-Shaikh/leetcode/tree/main/0144.binary-tree-pre-order-traversal)**
 -   **[145. Binary Tree Post-Order Traversal](https://github.com/Razeen-Shaikh/leetcode/tree/main/0145.binary-tree-post-order-traversal)**
 -   **[203. Remove Linked List Elements](https://github.com/Razeen-Shaikh/leetcode/tree/main/0203.remove-linked-list-elements)**
+-   **[205. Isomorphic Strings](https://github.com/Razeen-Shaikh/leetcode/tree/main/0205.isomorphic-strings)**
 -   **[206. Reverse Linked List](https://github.com/Razeen-Shaikh/leetcode/tree/main/0206.reverse-linked-list)**
 -   **[217. Contains Duplicate](https://github.com/Razeen-Shaikh/leetcode/tree/main/0217.contains-duplicate)**
 -   **[226. Invert Binary Tree](https://github.com/Razeen-Shaikh/leetcode/tree/main/0226.invert-binary-tree)**
