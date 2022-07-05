@@ -24,6 +24,7 @@
 -   **[104. Maximum Depth of Binary Tree](https://github.com/Razeen-Shaikh/leetcode/tree/main/0104.maximum-depth-of-binary-tree)**
 -   **[118. Pascal's Triangle](https://github.com/Razeen-Shaikh/leetcode/tree/main/0118.pascal's-triangle)**
 -   **[136. Single Number](https://github.com/Razeen-Shaikh/leetcode/tree/main/0136.single-number)**
+-   **[142. Linked List Cycle II](https://github.com/Razeen-Shaikh/leetcode/tree/main/0142.linked-list-cycle-ii)**
 -   **[144. Binary Tree Pre Order Traversal](https://github.com/Razeen-Shaikh/leetcode/tree/main/0144.binary-tree-pre-order-traversal)**
 -   **[145. Binary Tree Post-Order Traversal](https://github.com/Razeen-Shaikh/leetcode/tree/main/0145.binary-tree-post-order-traversal)**
 -   **[203. Remove Linked List Elements](https://github.com/Razeen-Shaikh/leetcode/tree/main/0203.remove-linked-list-elements)**
