@@ -49,6 +49,9 @@
 -   **[540. Single Element in a Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/0540.single-element-in-a-sorted-array)**
 -   **[700. Search in a Binary Search Tree](https://github.com/Razeen-Shaikh/leetcode/tree/main/0700.search-in-a-binary-search-tree)**
 -   **[724. Find Pivot Index](https://github.com/Razeen-Shaikh/leetcode/tree/main/724.find-pivot-index)**
+-   **[844. Backspace String Compare](https://github.com/Razeen-Shaikh/leetcode/tree/main/844.backspace-str-compare)**
+-   **[852. Peak Index in a Mountain Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/852.peak-index-in-a-mountain-array)**
+-   **[876. Middle of the Linked List](https://github.com/Razeen-Shaikh/leetcode/tree/main/876.middle_of-the-linked-list)**
 -   **[905. Sort Array By Parity](https://github.com/Razeen-Shaikh/leetcode/tree/main/0905.sort-array-by-parity)**
 -   **[912. Sort an Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/0912.sort-an-array)**
 -   **[941. Valid Mountain Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/0941.valid-mountain-array)**
