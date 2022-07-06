@@ -23,6 +23,7 @@
 -   **[102. Binary Tree Level Order Traversal](https://github.com/Razeen-Shaaikh/leetcode/tree/main/0102.binary-tree-level-order-traversal)**
 -   **[104. Maximum Depth of Binary Tree](https://github.com/Razeen-Shaikh/leetcode/tree/main/0104.maximum-depth-of-binary-tree)**
 -   **[118. Pascal's Triangle](https://github.com/Razeen-Shaikh/leetcode/tree/main/0118.pascal's-triangle)**
+-   **[121. Best Time to Buy and Sell Stock](https://github.com/Razeen-Shaikh/leetcode/tree/main/0121.best-time-to-buy-sell-stock)**
 -   **[136. Single Number](https://github.com/Razeen-Shaikh/leetcode/tree/main/0136.single-number)**
 -   **[142. Linked List Cycle II](https://github.com/Razeen-Shaikh/leetcode/tree/main/0142.linked-list-cycle-ii)**
 -   **[144. Binary Tree Pre Order Traversal](https://github.com/Razeen-Shaikh/leetcode/tree/main/0144.binary-tree-pre-order-traversal)**
