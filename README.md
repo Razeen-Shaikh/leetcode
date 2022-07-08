@@ -36,6 +36,7 @@
 -   **[240. Search a 2D Matrix II](https://github.com/Razeen-Shaikh/leetcode/tree/main/0240.search-a-2d-matrix-ii)**
 -   **[242. Valid Anagram](https://github.com/Razeen-Shaikh/leetcode/tree/main/0242.valid-anagram)**
 -   **[258. Add Digits](https://github.com/Razeen-Shaikh/leetcode/tree/main/0258.add-digits)**
+-   **[278. First Bad Version](https://github.com/Razeen-Shaikh/leetcode/tree/main/0278.first-bad-version)**
 -   **[283. Move Zeroes](https://github.com/Razeen-Shaikh/leetcode/tree/main/0283.move-zeroes)**
 -   **[344. Reverse String](https://github.com/Razeen-Shaikh/leetcode/tree/main/0344.reverse-string)**
 -   **[350. Intersection of Two Arrays II](https://github.com/Razeen-Shaikh/leetcode/tree/main/0350.intersection-of-two-arrays-ii)**
