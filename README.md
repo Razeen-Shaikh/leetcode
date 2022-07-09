@@ -33,6 +33,7 @@
 -   **[206. Reverse Linked List](https://github.com/Razeen-Shaikh/leetcode/tree/main/0206.reverse-linked-list)**
 -   **[217. Contains Duplicate](https://github.com/Razeen-Shaikh/leetcode/tree/main/0217.contains-duplicate)**
 -   **[226. Invert Binary Tree](https://github.com/Razeen-Shaikh/leetcode/tree/main/0226.invert-binary-tree)**
+-   **[235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/Razeen-Shaikh/leetcode/tree/main/0235.lowest-common-ancestor-of-a-binary-search-tree)**
 -   **[240. Search a 2D Matrix II](https://github.com/Razeen-Shaikh/leetcode/tree/main/0240.search-a-2d-matrix-ii)**
 -   **[242. Valid Anagram](https://github.com/Razeen-Shaikh/leetcode/tree/main/0242.valid-anagram)**
 -   **[258. Add Digits](https://github.com/Razeen-Shaikh/leetcode/tree/main/0258.add-digits)**
