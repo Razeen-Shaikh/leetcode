@@ -3,6 +3,7 @@
 <h4 style="color:red">Hard</h4>
 
 -   **_[Median of Two Sorted Arrays](https://github.com/Razeen-Shaikh/leetcode/tree/main/median-of-two-sorted-arrays)_**
+-   **_[Regular Expression Matching](https://github.com/Razeen-Shaikh/leetcode/tree/main/regular-expression-matching)_**
 
 <h4 style="color:orange">Medium</h4>
 
