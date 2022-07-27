@@ -24,7 +24,7 @@ Constraints:
 
 ## Solutions
 
-| _Name_                                                                                                              | _Runtime_ | _Memory_  | _Language_ |
-| ------------------------------------------------------------------------------------------------------------------- | --------- | --------- | ---------- |
-| **_[Solution 1](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/max-consecutive-ones/solution1.py)_** | _568 ms_  | _14.5 MB_ | _python3_  |
-| **_[Solution 1](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/max-consecutive-ones/solution1.js)_** | 135 ms    | 46.3 MB   | javascript |
+| _Name_                                                                                                              | _Runtime_ | _Memory_  | _Language_   |
+| ------------------------------------------------------------------------------------------------------------------- | --------- | --------- | ------------ |
+| **_[Solution 1](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/max-consecutive-ones/solution1.py)_** | _568 ms_  | _14.5 MB_ | _python3_    |
+| **_[Solution 1](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/max-consecutive-ones/solution1.js)_** | _135 ms_  | _46.3 MB_ | _javascript_ |
