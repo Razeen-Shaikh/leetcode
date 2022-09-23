@@ -27,6 +27,7 @@
 -   **_[Pairs of Songs With Total Durations Divisible by 60](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/pairs-of-a-sorted-array)_**
 -   **_[Swapping Nodes in a Linked List](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/1721.swapping-nodes-in-a-linked-list)_**
 -   **_[Divide Two Integers](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/divide-two-numbers)_**
+-   **_[Concatenation of Consecutive Binary Numbers](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/concatenation-of-consecutive-binary-numbers)_**
 
 <h4 style="color:green">Easy</h4>
 
