@@ -28,6 +28,7 @@
 -   **_[Swapping Nodes in a Linked List](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/1721.swapping-nodes-in-a-linked-list)_**
 -   **_[Divide Two Integers](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/divide-two-numbers)_**
 -   **_[Concatenation of Consecutive Binary Numbers](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/concatenation-of-consecutive-binary-numbers)_**
+-   **_[Design Circular Queue](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/design-circular-queue)_**
 
 <h4 style="color:green">Easy</h4>
 
