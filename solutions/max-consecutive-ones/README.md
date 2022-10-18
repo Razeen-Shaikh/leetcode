@@ -19,12 +19,12 @@ Output: 2
 
 Constraints:
 
--   <code>1 <= nums.length <= 10<sup>5</sup></code>
--   `nums[i]` is either `0` or `1`.
+- <code>1 <= nums.length <= 10<sup>5</sup></code>
+- `nums[i]` is either `0` or `1`.
 
 ## Solutions
 
-| _Name_                                                                                                              | _Runtime_ | _Memory_  | _Language_   |
-| ------------------------------------------------------------------------------------------------------------------- | --------- | --------- | ------------ |
-| **_[Solution 1](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/max-consecutive-ones/solution1.py)_** | _568 ms_  | _14.5 MB_ | _python3_    |
-| **_[Solution 1](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/max-consecutive-ones/solution1.js)_** | _135 ms_  | _46.3 MB_ | _javascript_ |
+| _Name_                                                                                                                         | _Runtime_ | _Memory_  | _Language_   |
+| ------------------------------------------------------------------------------------------------------------------------------ | --------- | --------- | ------------ |
+| **_[Solution 1](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/max-consecutive-ones/max-consecutive-ones.py)_** | _568 ms_  | _14.5 MB_ | _python3_    |
+| **_[Solution 1](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/max-consecutive-ones/max-consecutive-ones.js)_** | _135 ms_  | _46.3 MB_ | _javascript_ |
