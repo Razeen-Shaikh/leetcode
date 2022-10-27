@@ -29,6 +29,7 @@
 - **_[Divide Two Integers](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/divide-two-numbers)_**
 - **_[Concatenation of Consecutive Binary Numbers](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/concatenation-of-consecutive-binary-numbers)_**
 - **_[Design Circular Queue](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/design-circular-queue)_**
+- **_[Best Time to Buy and Sell Stock II](https://github.com/Razeen-Shaikh/leetcode/tree/main/solutions/best-time-to-buy-and-sell-stock-ii)_**
 
 <h4 style="color:green">Easy</h4>
 
