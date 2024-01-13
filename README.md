@@ -90,7 +90,11 @@
 - **_[Count Negative Numbers in a Sorted Matrix](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/count-negative-numbers-in-a-sorted-matrix)_**
 - **_[Running Sum of 1d Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/running-sum-of-1d-array)_**
 - **_[Find First Palindromic String in the Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/find-first-palindromic-string-in-the-array)_**
+- **_[Determine if string halves are alike](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1704.determine-if-string-halves-are-alike)_**
 
-### SQL 50
+## SQL 50
+
+<h4 style="color:green">Easy</h4>
 
 - **_[Recyclable and Low Fat Products](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/sql50/1757.recyclable-and-low-fat-products)_**
+- **_[Find Customer Refree](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/sql50/584.find-customer-refree)_**
