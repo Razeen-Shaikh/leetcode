@@ -31,4 +31,4 @@ After modulo 109 + 7, the result is 505379714.
 
 **Constraints:**
 
--   <code>1 <= n <= 10<sup>5</sup></code>
+- <code>1 <= n <= 10<sup>5</sup></code>
