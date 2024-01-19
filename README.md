@@ -1,8 +1,8 @@
-# LeetCode Problems
+# LeetCode
 
 <h4 style="color:red">Hard</h4>
 
-- **_[Median of Two Sorted Arrays](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/median-of-two-sorted-arrays)_**
+- **_[Median of Two Sorted Arrays](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0004.median-of-two-sorted-arrays)_**
 - **_[Regular Expression Matching](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/regular-expression-matching)_**
 
 <h4 style="color:orange">Medium</h4>
