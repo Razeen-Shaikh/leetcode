@@ -1,8 +1,24 @@
+"""
+Module for solving Sudoku problems.
+"""
+
 from ast import List
 
 
 class Solution:
-    def isValidSudoku(self, board: List[List[str]]) -> bool:
+    """
+    This class is for solving a specific problem.
+    """
+    def is_valid_sudoku(self, board: List[List[str]]) -> bool:
+        """
+        Check if the given Sudoku board is valid.
+
+        Args:
+        board (List[List[str]]): A 9x9 grid representing the Sudoku board.
+
+        Returns:
+        bool: True if the board is valid, False otherwise.
+        """
         n = 9
         for r in range(n):
             row = [c for c in board[r] if c != "."]
