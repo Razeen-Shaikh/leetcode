@@ -2,7 +2,7 @@
  * @param {character[][]} board
  * @return {boolean}
  */
-var isValidSudoku = function (board) {
+const isValidSudoku = function (board) {
   let [row] = board;
   let column = row.map((_, column) => board.map((row) => row[column]));
   let sub_boxes = Array(9).fill([]);
