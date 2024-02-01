@@ -1,5 +1,6 @@
-from ast import List
+"""Two Sums"""
 
+from ast import List
 
 class Solution:
     """
@@ -32,5 +33,6 @@ class Solution:
             # Add the current number and its index to the dictionary
             num_indices[num] = i
 
-        # If no solution is found, return an empty list (this should not happen based on the problem statement)
+        # If no solution is found, return an empty list
+        # (this should not happen based on the problem statement)
         return []
