@@ -1,5 +1,21 @@
+"""
+Module for converting integers to Roman numerals.
+"""
+
 class Solution:
-    def intToRoman(self, num: int) -> str:
+    """
+    Class for converting an integer to a Roman numeral.
+    """
+    def int_to_roman(self, num: int) -> str:
+        """
+        Convert an integer to a Roman numeral.
+        
+        Args:
+            num (int): The input integer to be converted.
+        
+        Returns:
+            str: The Roman numeral representation of the input integer.
+        """
         val = [
             1000, 900, 500, 400,
             100, 90, 50, 40,
