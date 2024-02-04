@@ -12,21 +12,21 @@
 10. **[Regular Expression Matching](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0010.regular-expression-matching)**
 11. **[Container with Most Water](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0011.container-with-most-water)**
 12. **[Integer To Roman](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0012.integer-to-roman)**
-13.
-14.
-15.
+13. **[Roman To Integer](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0013.roman-to-integer)**
+14. **[Longest Common Prefix](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0014.longest-common-prefix)**
+15. **[3 Sum](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0015.3sum)**
 16.
 17.
 18.
 19. **[Remove Nth Node From End of List](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0019.remove-nth-node-from-end-of-list)**
 20.
-21.
+21. **[Merge Two Sorted Lists](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0021.merge-two-sorted-lists)**
 22.
 23.
 24. **[Swap Nodes in Pairs](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0024.swap-nodes-in-pairs)**
 25.
-26.
-27.
+26. **[Remove Duplicates From Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0026.remove-duplicates-from-sorted-array)**
+27. **[Remove Element](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0027.remove-element)**
 28.
 29. **[Divide Two Integers](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0029.divide-two-numbers)**
 30.
@@ -57,7 +57,7 @@
 55.
 56.
 57.
-58.
+58. **[Length of Last Word](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0058.length-of-last-word)**
 59.
 60.
 61.
@@ -65,10 +65,10 @@
 63.
 64.
 65.
-66.
+66. **[Plus One](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0066.plus-one)**
 67.
 68.
-69.
+69. **[Sqrt of X](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0069.sqrt-of-x)**
 70.
 71.
 72.
@@ -100,8 +100,8 @@
 98.
 99.
 100.
-101.
-102. **[Binary Tree Level Order Traversal](https://github.com/Razeen-Shaaikh/leetcode/tree/main/problems/0102.binary-tree-level-order-traversal)**
+101. **[Binary Tree Level Order Traversal](https://github.com/Razeen-Shaaikh/leetcode/tree/main/problems/0102.binary-tree-level-order-traversal)**
+102.
 103.
 104.
 105.
@@ -120,8 +120,8 @@
 118.
 119.
 120.
-121.
-122. **[Best Time to Buy and Sell Stock II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0122.best-time-to-buy-and-sell-stock-ii)**
+121. **[Best Time to Buy and Sell Stock II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0122.best-time-to-buy-and-sell-stock-ii)**
+122.
 123.
 124.
 125.
@@ -140,8 +140,8 @@
 138.
 139.
 140.
-141.
-142. **[Linked List Cycle II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0142.linked-list-cycle-ii)**
+141. **[Linked List Cycle II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0142.linked-list-cycle-ii)**
+142.
 143.
 144.
 145.
@@ -213,8 +213,8 @@
 211.
 212.
 213.
-214.
-215. **[Kth Largest Element in an Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0215.kth-largest-element-in-an-array)**
+214. **[Kth Largest Element in an Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0215.kth-largest-element-in-an-array)**
+215.
 216.
 217.
 218.
@@ -238,8 +238,8 @@
 236.
 237.
 238.
-239.
-240. **[Search a 2D Matrix II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0240.search-a-2d-matrix-ii)**
+239. **[Search a 2D Matrix II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0240.search-a-2d-matrix-ii)**
+240.
 241.
 242.
 243.
@@ -538,8 +538,8 @@
 536.
 537.
 538.
-539.
-540. **[Single Element in a Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0540.single-element-in-a-sorted-array)**
+539. **[Single Element in a Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0540.single-element-in-a-sorted-array)**
+540.
 541.
 542.
 543.
@@ -582,12 +582,12 @@
 580.
 581.
 582.
-583.
-584. **[Find Customer Refree](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/sql50/584.find-customer-refree)**
+583. **[Find Customer Refree](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/sql50/584.find-customer-refree)**
+584.
 585.
 586.
 587.
-588.
+588. **[N-ary Tree Preorder Traversal](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0589.n-ary-treepreorder-traversal)**
 589.
 590.
 591.
@@ -620,8 +620,8 @@
 618.
 619.
 620.
-621.
-622. **[Design Circular Queue](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0622.design-circular-queue)**
+621. **[Design Circular Queue](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0622.design-circular-queue)**
+622.
 623.
 624.
 625.
@@ -699,8 +699,8 @@
 697.
 698.
 699.
-700.
-701. **[Insert into a Binary Search Tree](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0701.insert-into-a-binary-search-tree)**
+700. **[Insert into a Binary Search Tree](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0701.insert-into-a-binary-search-tree)**
+701.
 702.
 703.
 704.
@@ -850,8 +850,8 @@
 848.
 849.
 850.
-851.
-852. **[Peak Index in a Mountain Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0852.peak-index-in-a-mountain-array)**
+851. **[Peak Index in a Mountain Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0852.peak-index-in-a-mountain-array)**
+852.
 853.
 854.
 855.
@@ -910,8 +910,8 @@
 908.
 909.
 910.
-911.
-912. **[Sort an Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0912.sort-an-array)**
+911. **[Sort an Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0912.sort-an-array)**
+912.
 913.
 914.
 915.
@@ -975,7 +975,7 @@
 973.
 974.
 975.
-976.
+976. **[Squares of a Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0977.squares-of-a-sorted-array)**
 977.
 978.
 979.
@@ -1008,8 +1008,8 @@
 1006.
 1007.
 1008.
-1009.
-1010. **[Pairs of Songs With Total Durations Divisible by 60](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1010.pairs-of-songs-with-total-durations-divisible-by60)**
+1009. **[Pairs of Songs With Total Durations Divisible by 60](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1010.pairs-of-songs-with-total-durations-divisible-by60)**
+1010.
 1011.
 1012.
 1013.
@@ -1049,7 +1049,7 @@
 1047.
 1048.
 1049.
-1050.
+1050. **[Height Checker](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1051.height-checker)**
 1051.
 1052.
 1053.
@@ -1087,7 +1087,7 @@
 1085.
 1086.
 1087.
-1088.
+1088. **[Duplicate Zeros](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1089.duplicate-zeros)**
 1089.
 1090.
 1091.
@@ -1288,17 +1288,17 @@
 1286.
 1287.
 1288.
-1289.
-1290. **[Convert Binary Number in a Linked List to Integer](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1290.convert-binary-number-in-a-linked-list-to-integer)**
+1289. **[Convert Binary Number in a Linked List to Integer](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1290.convert-binary-number-in-a-linked-list-to-integer)**
+1290.
 1291.
 1292.
 1293.
-1294.
-1295. **[Find Numbers with Even Number of Digits](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1295.find-numbers-with-even-number-of-digits)**
+1294. **[Find Numbers with Even Number of Digits](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1295.find-numbers-with-even-number-of-digits)**
+1295.
 1296.
 1297.
-1298.
-1299. **[Replace Elements with Greatest Element on Right Side](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1299.replace-elements-with-greatest-element-on-right-side)**
+1298. **[Replace Elements with Greatest Element on Right Side](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1299.replace-elements-with-greatest-element-on-right-side)**
+1299.
 1300.
 1301.
 1302.
@@ -1344,13 +1344,13 @@
 1342.
 1343.
 1344.
-1345.
-1346. **[Check If N and Its Double Exist](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1346.check-if-n-and-its-double-exist)**
+1345. **[Check If N and Its Double Exist](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1346.check-if-n-and-its-double-exist)**
+1346.
 1347.
 1348.
 1349.
-1350.
-1351. **[Count Negative Numbers in a Sorted Matrix](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1351.count-negative-numbers-in-a-sorted-matrix)**
+1350. **[Count Negative Numbers in a Sorted Matrix](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1351.count-negative-numbers-in-a-sorted-matrix)**
+1351.
 1352.
 1353.
 1354.
@@ -1478,8 +1478,8 @@
 1476.
 1477.
 1478.
-1479.
-1480. **[Running Sum of 1d Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1480.running-sum-of-1d-array)**
+1479. **[Running Sum of 1d Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1480.running-sum-of-1d-array)**
+1480.
 1481.
 1482.
 1483.
@@ -1678,8 +1678,8 @@
 1676.
 1677.
 1678.
-1679.
-1680. **[Concatenation of Consecutive Binary Numbers](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1680.concatenation-of-consecutive-binary-numbers)**
+1679. **[Concatenation of Consecutive Binary Numbers](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1680.concatenation-of-consecutive-binary-numbers)**
+1680.
 1681.
 1682.
 1683.
@@ -1702,8 +1702,8 @@
 1700.
 1701.
 1702.
-1703.
-1704. **[Determine if string halves are alike](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1704.determine-if-string-halves-are-alike)**
+1703. **[Determine if string halves are alike](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1704.determine-if-string-halves-are-alike)**
+1704.
 1705.
 1706.
 1707.
@@ -1719,8 +1719,8 @@
 1717.
 1718.
 1719.
-1720.
-1721. **[Swapping Nodes in a Linked List](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1721.swapping-nodes-in-a-linked-list)**
+1720. **[Swapping Nodes in a Linked List](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1721.swapping-nodes-in-a-linked-list)**
+1721.
 1722.
 1723.
 1724.
@@ -1755,8 +1755,8 @@
 1753.
 1754.
 1755.
-1756.
-1757. **[Recyclable and Low Fat Products](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/sql50/1757.recyclable-and-low-fat-products)**
+1756. **[Recyclable and Low Fat Products](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/sql50/1757.recyclable-and-low-fat-products)**
+1757.
 1758.
 1759.
 1760.
@@ -2106,8 +2106,8 @@
 2104.
 2105.
 2106.
-2107.
-2108. **[Find First Palindromic String in the Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2108.find-first-palindromic-string-in-the-array)**
+2107. **[Find First Palindromic String in the Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2108.find-first-palindromic-string-in-the-array)**
+2108.
 2109.
 2110.
 2111.
@@ -3179,59 +3179,6 @@
 3177.
 3178.
 3179.
-
 3180.
 3181.
 3182.
-3183.
-
-3184. **[N-ary Tree Preorder Traversal](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/n-ary-treepreorder-traversal)**
-      **[Two Sum](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/two-sums)**
-      **[Palindrome Number](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/palindrome-number)**
-      **[Roman to Integer](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/roman-to-integer)**
-      **[Merge Two Sorted Lists](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/merge-two-sorted-lists)**
-      **[Remove Duplicates from Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/remove-duplicates-from-sorted-array)**
-      **[Remove Element](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/remove-element)**
-      **[Search Insert Position](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/search-insert-position)**
-      **[Length of Last Word](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/length-of-last-word)**
-      **[Sqrt(x)](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/sqrt-of-x)**
-      **[Merge Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/merge-sorted-array)**
-      **[Binary Tree In-Order Traversal](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/binary-tree-inorder-traversal)**
-      **[Maximum Depth of Binary Tree](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/maximum-depth-of-binary-tree)**
-      **[Pascal's Triangle](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/pascal's-triangle)**
-      **[Best Time to Buy and Sell Stock](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/best-time-to-buy-sell-stock)**
-      **[Single Number](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/single-number)**
-      **[Binary Tree Pre Order Traversal](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/binary-tree-pre-order-traversal)**
-      **[Binary Tree Post-Order Traversal](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/binary-tree-post-order-traversal)**
-      **[Remove Linked List Elements](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/remove-linked-list-elements)**
-      **[Isomorphic Strings](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/isomorphic-strings)**
-      **[Reverse Linked List](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/reverse-linked-list)**
-      **[Contains Duplicate](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/contains-duplicate)**
-      **[Invert Binary Tree](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/invert-binary-tree)**
-      **[Lowest Common Ancestor of a Binary Search Tree](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/lowest-common-ancestor-of-a-binary-search-tree)**
-      **[Valid Anagram](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/valid-anagram)**
-      **[Add Digits](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/add-digits)**
-      **[First Bad Version](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/first-bad-version)**
-      **[Move Zeroes](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/move-zeroes)**
-      **[Reverse String](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/reverse-string)**
-      **[Intersection of Two Arrays II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/intersection-of-two-arrays-ii)**
-      **[Ransom Note](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/ransom-note)**
-      **[First Unique Character in a String](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/first-unique-character-in-a-string)**
-      **[Is Subsequence](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/is-subsequence)**
-      **[Longest Palindrome](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/longest-palindrome)**
-      **[Third Maximum Number](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/third-maximum-number)**
-      **[Find All Numbers Disappeared in an Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/find-all-numbers-disappeared-in-an-array)**
-      **[Hamming Distance](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/hamming-distance)**
-      **[Max Consecutive Ones](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/max-consecutive-ones)**
-      **[Fibonacci Number](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/fibonacci-number)**
-      **[Detect Capital](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/detect-capital)**
-      **[Search in a Binary Search Tree](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/search-in-a-binary-search-tree)**
-      **[Binary Search](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/binary-search)**
-      **[Find Pivot Index](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/find-pivot-index)**
-      **[Backspace String Compare](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/backspace-str-compare)**
-      **[Middle of the Linked List](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/middleof-the-linked-list)**
-      **[Sort Array By Parity](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/sort-array-by-parity)**
-      **[Valid Mountain Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/valid-mountain-array)**
-      **[Squares of a Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/squares-of-a-sorted-array)**
-      **[Height Checker](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/height-checker)**
-      **[Duplicate Zeros](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1089.duplicate-zeros)**
