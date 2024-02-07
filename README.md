@@ -15,7 +15,7 @@
 13. **[Roman To Integer](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0013.roman-to-integer)**
 14. **[Longest Common Prefix](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0014.longest-common-prefix)**
 15. **[3 Sum](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0015.3sum)**
-16.
+16. **[3sum Closest](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0016.3sum-closest)**
 17.
 18.
 19. **[Remove Nth Node From End of List](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0019.remove-nth-node-from-end-of-list)**
@@ -75,7 +75,7 @@
 73.
 74. **[Search a 2D Matrix](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0074.search-a-2d-matrix)**
 75.
-76.
+76. **[Minimum Window Substring](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0076.minimum-window-substring)**
 77.
 78.
 79.
@@ -87,23 +87,23 @@
 85.
 86.
 87.
-88.
+88. **[Merge Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0088.merge-sorted-array)**
 89.
 90.
 91.
 92.
 93.
-94.
+94. **[Binary Tree Inorder Traversal](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0094.binary-tree-inorder-traversal)**
 95.
 96.
 97.
-98.
+98. **[Validate Binary Search Tree](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0098.validate-binary-search-tree)**
 99.
 100.
-101. **[Binary Tree Level Order Traversal](https://github.com/Razeen-Shaaikh/leetcode/tree/main/problems/0102.binary-tree-level-order-traversal)**
-102.
+101.
+102. **[Binary Tree Level Order Traversal](https://github.com/Razeen-Shaaikh/leetcode/tree/main/problems/0102.binary-tree-level-order-traversal)**
 103.
-104.
+104. **[Maximum Depth of Binary Tree](https://github.com/Razeen-Shaaikh/leetcode/tree/main/problems/0104.maximum-depth-of-binary-tree)**
 105.
 106.
 107.
@@ -117,11 +117,11 @@
 115.
 116.
 117.
-118.
+118. **[Pascal's Triangle](https://github.com/Razeen-Shaaikh/leetcode/tree/main/problems/0118.pascal's-triangle)**
 119.
 120.
-121. **[Best Time to Buy and Sell Stock II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0122.best-time-to-buy-and-sell-stock-ii)**
-122.
+121. **[Best Time To Buy and Sell Stock](https://github.com/Razeen-Shaaikh/leetcode/tree/main/problems/0121.best-time-to-buy-and-sell-stock)**
+122. **[Best Time to Buy and Sell Stock II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0122.best-time-to-buy-and-sell-stock-ii)**
 123.
 124.
 125.
@@ -135,16 +135,16 @@
 133.
 134.
 135.
-136.
+136. **[Single Number](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0136.single-number)**
 137.
 138.
 139.
 140.
-141. **[Linked List Cycle II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0142.linked-list-cycle-ii)**
-142.
+141.
+142. **[Linked List Cycle II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0142.linked-list-cycle-ii)**
 143.
-144.
-145.
+144. **[Binary Tree Preorder Traversal](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0144.binary-tree-preorder-traversal)**
+145. **[Binary Tree Postorder Traversal](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0145.binary-tree-postorder-traversal)**
 146.
 147.
 148.
