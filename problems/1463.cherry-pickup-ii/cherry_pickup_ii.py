@@ -9,7 +9,7 @@ class Solution:
     """
     def cherry_pickup(self, grid: List[List[int]]) -> int:
         """
-        Calculate the maximum cherries that can be collected by two robots moving simultaneously from the top-left to the bottom-right of the grid.
+        Calculate the maximum cherries that can be collected by two robots moving simultaneously from the top-left to the bottom-right of the grid.`
         
         Args:
         grid (List[List[int]]): The grid representing the cherries at each cell
