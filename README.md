@@ -19,7 +19,7 @@
 17. **[Letter Combinations of a Phone Number](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0017.letter-combinations-of-a-phone-number)**
 18.
 19. **[Remove Nth Node From End of List](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0019.remove-nth-node-from-end-of-list)**
-20.
+20. **[Valid Parentheses](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0020.valid-parentheses)**
 21. **[Merge Two Sorted Lists](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0021.merge-two-sorted-lists)**
 22.
 23.
