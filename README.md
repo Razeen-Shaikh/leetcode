@@ -21,8 +21,8 @@
 19. **[Remove Nth Node From End of List](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0019.remove-nth-node-from-end-of-list)**
 20. **[Valid Parentheses](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0020.valid-parentheses)**
 21. **[Merge Two Sorted Lists](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0021.merge-two-sorted-lists)**
-22. Generate Parentheses
-23.
+22. **[Generate Parentheses](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0022.generate-parentheses)**
+23. Merge k Sorted Lists
 24. **[Swap Nodes in Pairs](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0024.swap-nodes-in-pairs)**
 25.
 26. **[Remove Duplicates From Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0026.remove-duplicates-from-sorted-array)**
