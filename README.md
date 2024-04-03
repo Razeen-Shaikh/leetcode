@@ -24,17 +24,17 @@
 22. **[Generate Parentheses](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0022.generate-parentheses)**
 23. Merge k Sorted Lists
 24. **[Swap Nodes in Pairs](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0024.swap-nodes-in-pairs)**
-25.
+25. Reverse Nodes in k Group
 26. **[Remove Duplicates From Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0026.remove-duplicates-from-sorted-array)**
 27. **[Remove Element](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0027.remove-element)**
-28.
+28. **[Find the Index of the first occurence in a string](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0028.find-the-index-of-the-first-occurrence-in-a-string)**
 29. **[Divide Two Integers](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0029.divide-two-numbers)**
-30.
-31.
-32.
-33.
+30. Substring with Concatenation of All Words
+31. Next Permutation
+32. Longest Valid Parentheses
+33. Search in Rotated Sorted Array
 34. **[Find First and Last Position of Element in Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0034.find-first-and-last-position-of-element)**
-35.
+35. **[Search Insert Position](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0035.search-insert-position)**
 36. **[Valid Sudoku](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0036.valid-sudoku)**
 37.
 38.
@@ -47,8 +47,8 @@
 45.
 46.
 47.
-48.
-49.
+48. **[Rotate Image](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0048.rotate-image)**
+49. **[Group Anagrams](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0049.group-anagrams)**
 50.
 51.
 52.
@@ -124,7 +124,7 @@
 122. **[Best Time to Buy and Sell Stock II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0122.best-time-to-buy-and-sell-stock-ii)**
 123.
 124.
-125.
+125. **[Valid Palindrome](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0125.valid-palindrome)**
 126.
 127.
 128.
@@ -202,10 +202,10 @@
 200.
 201.
 202.
-203.
+203. **[Remove Linked List Elements](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0203.remove-linked-list-elements)**
 204.
-205.
-206.
+205. **[Isomorphic String](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0205.isomorphic-strings)**
+206. **[Reverse Linked List](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0206.reverse-linked-list)**
 207.
 208.
 209.
@@ -214,9 +214,9 @@
 212.
 213.
 214. **[Kth Largest Element in an Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0215.kth-largest-element-in-an-array)**
-215.
+215. **[kth largest element in an array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0215.kth-largest-element-in-an-array)**
 216.
-217.
+217. **[Contains Duplicate](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0217.contains-duplicate)**
 218.
 219.
 220.
@@ -225,7 +225,7 @@
 223.
 224.
 225.
-226.
+226. **[Invert Binary Tree](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0226.invert-binary-tree)**
 227.
 228.
 229.

@@ -1,4 +1,4 @@
-"""Two Sums"""
+"""1. Two Sums"""
 
 from ast import List
 
@@ -8,7 +8,10 @@ class Solution:
     """
     def two_sum(self, nums: List[int], target: int) -> List[int]:
         """
-        Find the indices of the two numbers in the list 'nums' that add up to the 'target'.
+        Given an array of integers `nums` and an integer `target`, 
+        return indices of the two numbers such that they add up to `target`.
+        You may assume that each input would have **_exactly one solution_**,
+        and you may not use the same element twice.
         
         Args:
             nums: A list of integers.
