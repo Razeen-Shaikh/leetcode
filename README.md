@@ -1,4 +1,5 @@
 # LeetCode
+[![wakatime](https://wakatime.com/badge/user/018ce784-4075-43da-961a-e1a63c49b4fe/project/018ce7a4-41db-42b9-a33d-89895b8aeebc.svg)](https://wakatime.com/badge/user/018ce784-4075-43da-961a-e1a63c49b4fe/project/018ce7a4-41db-42b9-a33d-89895b8aeebc)
 
 1. **[Two Sums](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0001.two-sums)**
 2. **[Add Two Numbers](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0002.add-two-numbers)**
