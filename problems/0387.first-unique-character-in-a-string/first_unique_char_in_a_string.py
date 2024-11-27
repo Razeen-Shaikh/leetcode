@@ -1,7 +1,4 @@
 class Solution:
-    """
-    Class to perform operations on strings.
-    """
     def first_uniq_char(self, s: str) -> int:
         """
         Find the first unique character in the given string.
