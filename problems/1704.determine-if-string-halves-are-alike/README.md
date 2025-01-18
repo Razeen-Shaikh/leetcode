@@ -8,7 +8,7 @@ Return true if a and b are alike. Otherwise, return false.
 
 **Example 1:**
 
-```
+```text
 
 Input: s = "book"
 Output: true

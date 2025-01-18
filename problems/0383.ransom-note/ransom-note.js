@@ -6,12 +6,23 @@
  */
 var canConstruct = function (ransomNote, magazine) {
 	if (ransomNote === magazine) return true;
-	let ransome = ransomNote.split("").sort();
+	let ransom = ransomNote.split("").sort();
 	let mag = magazine.split("").sort();
-	return ransome.every((ran, index) => {
+	return ransom.every((ran, index) => {
 		if (mag.includes(ran)) {
 			mag.splice(mag.indexOf(ran), 1);
 			return true;
 		}
 	});
 };
+
+// Use Default Props
+const ShoppingCart = (props) => {
+	return (
+		<div>
+			<h1>Shopping Cart Component</h1>
+		</div>
+	)
+};
+// Change code below this line
+ShoppingCart.defaultProps = { items: 0 };
