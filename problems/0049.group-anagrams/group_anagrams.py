@@ -1,12 +1,9 @@
 from typing import List
 
 class Solution:
-    """
-    Class to handle grouping anagrams from the input array of strings.
-    """
     def group_anagrams(self, strs: List[str]) -> List[List[str]]:
         """
-        Groups anagrams together from the input array of strings.
+        Given an array of strings strs, group the anagrams together. You can return the answer in any order.
 
         Args:
         - strs: A list of strings to group anagrams from.

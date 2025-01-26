@@ -1,11 +1,6 @@
-"""1. Two Sums"""
-
 from ast import List
 
 class Solution:
-    """
-    Class to provide solutions for specific problems.
-    """
     def two_sum(self, nums: List[int], target: int) -> List[int]:
         """
         Given an array of integers `nums` and an integer `target`, 

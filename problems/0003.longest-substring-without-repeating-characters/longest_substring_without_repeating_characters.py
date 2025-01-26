@@ -1,16 +1,7 @@
-"""
-This module provides a solution for finding the length of
-the longest substring in a given string without repeating characters.
-"""
-
 class Solution:
-    """
-    This class provides a solution for finding 
-    the length of the longest substring in a given string without repeating characters.
-    """
     def length_of_longest_substring(self, s: str) -> int:
         """
-        Find the length of the longest substring in a given string without repeating characters.
+        Given a string `s`, find the length of the **longest substring** without repeating characters.
 
         Args:
             s (str): The input string.

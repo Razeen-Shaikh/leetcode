@@ -1,17 +1,18 @@
-"""
-Module for solving Sudoku problems.
-"""
-
 from ast import List
 
 
 class Solution:
-    """
-    This class is for solving a specific problem.
-    """
     def is_valid_sudoku(self, board: List[List[str]]) -> bool:
         """
-        Check if the given Sudoku board is valid.
+        Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules:
+
+        Each row must contain the digits 1-9 without repetition.
+        Each column must contain the digits 1-9 without repetition.
+        Each of the nine 3 x 3 sub-boxes of the grid must contain the digits 1-9 without repetition.
+        Note:
+
+        A Sudoku board (partially filled) could be valid but is not necessarily solvable.
+        Only the filled cells need to be validated according to the mentioned rules.
 
         Args:
         board (List[List[str]]): A 9x9 grid representing the Sudoku board.
@@ -19,32 +20,28 @@ class Solution:
         Returns:
         bool: True if the board is valid, False otherwise.
         """
-        n = 9
-        for r in range(n):
-            row = [c for c in board[r] if c != "."]
-            if len(row) != len(set(row)):
-                return False
+        rows = [set() for _ in range(9)]
+        cols = [set() for _ in range(9)]
+        boxes = [set() for _ in range(9)]
 
-        for c in range(n):
-            col = [board[r][c] for r in range(n) if board[r][c] != "."]
-            if len(col) != len(set(col)):
-                return False
+        for row in range(9):
+            for col in range(9):
+                num = board[row][col]
+                
+                if num == ".":
+                    continue
+                
+                box_index = (row // 3) * 3 + (col // 3)
 
-        def block(R, C):
-            l = set()
-            for r in range(R, R+3):
-                for c in range(C, C+3):
-                    if board[r][c] == ".":
-                        continue
-                    if board[r][c] not in l:
-                        l.add(board[r][c])
-                    else:
-                        return False
-            return True
-
-        for r in range(0, n, 3):
-            for c in range(0, n, 3):
-                if not block(r, c):
+                if num in rows[row]:
                     return False
+                if num in cols[col]:
+                    return False
+                if num in boxes[box_index]:
+                    return False
+
+                rows[row].add(num)
+                cols[col].add(num)
+                boxes[box_index].add(num)
 
         return True
