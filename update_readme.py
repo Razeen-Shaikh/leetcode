@@ -1,19 +1,52 @@
 import requests
-import json
 
-LEETCODE_USERNAME = "your_leetcode_username"
+# Your LeetCode username
+LEETCODE_USERNAME = "srazeen"
+LEETCODE_GRAPHQL_URL = "https://leetcode.com/graphql"
 README_PATH = "README.md"
 
-# Fetch LeetCode solved problems using an API
 def fetch_leetcode_stats(username):
-    url = f"https://leetcode-stats-api.herokuapp.com/{username}"
-    response = requests.get(url)
-    if response.status_code == 200:
-        return response.json()
-    return None
+    query = {
+        "query": """
+        query recentAcSubmissions($username: String!) {
+            recentAcSubmissionList(username: $username, limit: 10) {
+                title
+                titleSlug
+            }
+            matchedUser(username: $username) {
+                submitStats: submitStatsGlobal {
+                    acSubmissionNum {
+                        difficulty
+                        count
+                    }
+                }
+            }
+        }
+        """,
+        "variables": {"username": username},
+    }
 
-# Update README file
-def update_readme(solved, total):
+    headers = {"Content-Type": "application/json"}
+    response = requests.post("https://leetcode.com/graphql", json=query, headers=headers)
+
+    if response.status_code == 200:
+        data = response.json()
+        if "data" in data and data["data"].get("matchedUser"):
+            solved_stats = data["data"]["matchedUser"]["submitStats"]["acSubmissionNum"]
+            return solved_stats
+    else:
+        print(f"❌ API Request Failed: {response.status_code}, Response: {response.text}")
+
+    return None, None
+
+
+def generate_badge(solved_count):
+    return f"https://img.shields.io/badge/LeetCode_Solved-{solved_count}-orange?style=for-the-badge&logo=leetcode"
+
+def update_readme(stats):
+    total_solved = stats[0]["count"]  # Get total solved problems
+    badge_url = generate_badge(total_solved)
+
     with open(README_PATH, "r") as file:
         readme_lines = file.readlines()
 
@@ -24,7 +57,7 @@ def update_readme(solved, total):
         if "<!-- LEETCODE:START -->" in line:
             inside_section = True
             new_content.append("<!-- LEETCODE:START -->\n")
-            new_content.append(f"- **Total Problems Solved:** {solved} / {total}\n")
+            new_content.append(f"![LeetCode Total Solved]({badge_url})\n")
         elif "<!-- LEETCODE:END -->" in line:
             inside_section = False
             new_content.append("<!-- LEETCODE:END -->\n")
@@ -34,13 +67,10 @@ def update_readme(solved, total):
     with open(README_PATH, "w") as file:
         file.writelines(new_content)
 
-# Run the update process
-leetcode_stats = fetch_leetcode_stats(LEETCODE_USERNAME)
+stats = fetch_leetcode_stats(LEETCODE_USERNAME)
 
-if leetcode_stats:
-    total_solved = leetcode_stats.get("totalSolved", 0)
-    total_questions = leetcode_stats.get("totalQuestions", 0)
-    update_readme(total_solved, total_questions)
-    print(f"Updated README: {total_solved} problems solved!")
+if stats:
+    update_readme(stats)
+    print("✅ README updated with latest LeetCode stats!")
 else:
-    print("Failed to fetch LeetCode stats.")
+    print("❌ Failed to fetch LeetCode stats.")

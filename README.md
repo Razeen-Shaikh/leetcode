@@ -1,91 +1,67 @@
-# LeetCode Problems
+# LeetCode Problems ![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=yellow)
 
-## 🟢 Easy
+<!-- LEETCODE:START -->
+![LeetCode Total Solved](https://img.shields.io/badge/LeetCode_Solved-159-orange?style=for-the-badge&logo=leetcode)
+<!-- LEETCODE:END -->
 
-✅ **[1. Two Sums](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0001.two-sums)**
+[![LeetCode Stats](https://leetcard.jacoblin.cool/srazeen?theme=dark&font=Karma&ext=activity)](https://leetcode.com/your_leetcode_username)
 
-✅ **[4. Median of Two Sorted Arrays](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0004.median-of-two-sorted-arrays)**
+## 🎯 Easy LeetCode Problems Solved  
 
-✅ **[26. Remove Duplicates From Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0026.remove-duplicates-from-sorted-array)**
+| 🆔 | Problem | Solution |
+|----|---------|----------|
+| ✅ **#0001** | [Two Sum](https://leetcode.com/problems/two-sum/) | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0001.two-sums) |
+| ✅ **#0004** | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0004.median-of-two-sorted-arrays) |
+| ✅ **#0026** | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0026.remove-duplicates-from-sorted-array) |
+| ✅ **#0027** | [Remove Element](https://leetcode.com/problems/remove-element/) | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0027.remove-element) |
+| ✅ **#0035** | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0035.search-insert-position) |
+| ✅ **#0066** | [Plus One](https://leetcode.com/problems/plus-one/) | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0066.plus-one) |
+| ✅ **#0088** | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0088.merge-sorted-array) |
+| ✅ **#0118** | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0118.pascal's-triangle) |
+| ✅ **#2108** | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2108.find-first-palindromic-string-in-the-array) |
+| ✅ **#2965** | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2965.find-missing-and-repeated-values) |
 
-✅ **[27. Remove Element](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0027.remove-element)**
+## 🎯 Medium LeetCode Problems Solved
 
-✅ **[35. Search Insert Position](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0035.search-insert-position)**
+| 🆔 | Problem | Status | Solution |
+|----|---------|--------|----------|
+| ✅ **#0011** | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0011.container-with-most-water) |
+| ✅ **#0015** | [3Sum](https://leetcode.com/problems/3sum/) | Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0015.3sum) |
+| ✅ **#0016** | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0016.3sum-closest) |
+| ✅ **#0018** | [4Sum](https://leetcode.com/problems/4sum/) | Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0018.4sum) |
+| ✅ **#0347** | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0347.top-k-frequent-elements) |
+| 🚧 **#0031** | [Next Permutation](https://leetcode.com/problems/next-permutation/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0031.next-permutation) |
+| 🚧 **#0033** | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0033.search-in-rotated-sorted-array) |
+| ✅ **#0034** | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element/) | Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0034.find-first-and-last-position-of-element) |
+| ✅ **#0036** | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0036.valid-sudoku) |
+| 🚧 **#0039** | [Combination Sum](https://leetcode.com/problems/combination-sum/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0039.combination-sum) |
+| 🚧 **#0040** | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0040.combination-sum-ii) |
+| 🚧 **#0045** | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0045.jump-game-ii) |
+| 🚧 **#0046** | [Permutations](https://leetcode.com/problems/permutations/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0046.permutations) |
+| 🚧 **#0047** | [Permutations II](https://leetcode.com/problems/permutations-ii/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0047.permutations-ii) |
+| ✅ **#0048** | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0048.rotate-image) |
+| ✅ **#0049** | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0049.group-anagrams) |
+| 🤔 **#0053** | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Needs Review | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0053.maximum-subarray) |
+| 🚧 **#0055** | [Jump Game](https://leetcode.com/problems/jump-game/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0055.jump-game) |
+| 🚧 **#0056** | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0056.merge-intervals) |
+| 🚧 **#0057** | [Insert Interval](https://leetcode.com/problems/insert-interval/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0057.insert-interval) |
+| 🚧 **#0054** | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0054.spiral-matrix) |
+| 🚧 **#0059** | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0059.spiral-matrix-ii) |
+| 🚧 **#0885** | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0885.spiral-matrix-iii) |
+| 🚧 **#2326** | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2326-spiral-matrix-iv) |
 
-✅ **[66. Plus One](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0066.plus-one)**
+## 🎯 Hard LeetCode Problems Solved
 
-✅ **[88. Merge Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0088.merge-sorted-array)**
-
-✅ **[118. Pascal's Triangle](https://github.com/Razeen-Shaaikh/leetcode/tree/main/problems/0118.pascal's-triangle)**
-
-✅ **[2108. Find First Palindromic String in the Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2108.find-first-palindromic-string-in-the-array)**
-
-✅ **[2965. Find Missing and Repeated Values](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2965.find-missing-and-repeated-values)**
-
-## 🟠 Medium
-
-✅ **[11. Container with Most Water](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0011.container-with-most-water)**
-
-✅ **[15. 3Sum](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0015.3sum)**
-
-✅ **[16. 3sum Closest](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0016.3sum-closest)**
-
-✅ **[18. 4sum](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0018.4sum)**
-
-✅ **[347. Top K Frequent Elements](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0347.top-k-frequent-elements)**
-
-🚧 **[Next Permutation](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0031.next-permutation)**
-
-🚧 **[Search in Rotated Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0033.search-in-rotated-sorted-array)**
-
-✅ **[Find First and Last Position of Element in Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0034.find-first-and-last-position-of-element)**
-
-✅ **[Valid Sudoku](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0036.valid-sudoku)**
-
-🚧 **[Combination Sum](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0039.combination-sum)**
-
-🚧 **[Combination Sum II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0040.combination-sum-ii)**
-
-🚧 **[Jump Game II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0045.jump-game-ii)**
-
-🚧 **[Permutations](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0046.permutations)**
-
-🚧 **[Permutations II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0047.permutations-ii)**
-
-✅ **[Rotate Image](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0048.rotate-image)**
-
-✅ **[Group Anagrams](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0049.group-anagrams)**
-
-🤔 **[Maximum Subarray](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0053.maximum-subarray)**
-
-🚧 **[Jump Game](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0055.jump-game)**
-
-🚧 **[Merge Intervals](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0056.merge-intervals)**
-
-🚧 **[Insert Interval](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0057.insert-interval)**
-
-🚧 **[Spiral Matrix](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0054.spiral-matrix)**
-
-🚧 **[Spiral Matrix II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0059.spiral-matrix-ii)**
-
-🚧 **[Spiral Matrix III](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0885.spiral-matrix-iii)**
-
-🚧 **[Spiral Matrix IV](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2326-spiral-matrix-iv)**
-
-## 🔴 Hard
-
-🚧 **[Sudoku Solver](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0037.sudoku-solver)**
-
-🚧 **[First Missing Positive](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0041.first-missing-positive)**
-
-🚧 **[Trapping Rain Water](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0042.trapping-rain-water)**
-
-🚧 **[N-Queens](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0051.n-queens)**
-
-🚧 **[N-Queens II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0052.n-queens-ii)**
+| 🆔 | Problem | Status | Solution |
+|----|---------|--------|----------|
+| 🚧 **#0037** | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0037.sudoku-solver) |
+| 🚧 **#0041** | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0041.first-missing-positive) |
+| 🚧 **#0042** | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0042.trapping-rain-water) |
+| 🚧 **#0051** | [N-Queens](https://leetcode.com/problems/n-queens/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0051.n-queens) |
+| 🚧 **#0052** | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0052.n-queens-ii) |
 
 <!--  -->
-🚧 **[Unique Paths II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0063.unique-paths-ii)**
+<!-- 🚧 **[Unique Paths II](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0063.unique-paths-ii)**
 
 🚧 **[Minimum Path Sum](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0064.minimum-path-sum)**
 
@@ -333,16 +309,9 @@
 
 **[Swapping Nodes in a Linked List](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/1721.swapping-nodes-in-a-linked-list)**
 
-**[Recyclable and Low Fat Products](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/sql50/1757.recyclable-and-low-fat-products)**
+**[Recyclable and Low Fat Products](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/sql50/1757.recyclable-and-low-fat-products)** -->
 
 <!-- "🚧" (in progress, actively working on)
 "🤔" (struggling, needs review)
 "📝" (Completed but need to review the solution)
  -->
-
-
-## 🚀 LeetCode Progress
-
-<!-- LEETCODE:START -->
-- **Total Problems Solved:** 0 / 0
-<!-- LEETCODE:END -->
