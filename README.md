@@ -339,3 +339,10 @@
 "🤔" (struggling, needs review)
 "📝" (Completed but need to review the solution)
  -->
+
+
+## 🚀 LeetCode Progress
+
+<!-- LEETCODE:START -->
+- **Total Problems Solved:** 0 / 0
+<!-- LEETCODE:END -->
