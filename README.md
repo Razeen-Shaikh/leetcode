@@ -2,35 +2,37 @@
 
 ## 🟢 Easy
 
-✅ **[Two Sums](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0001.two-sums)**
+✅ **[1. Two Sums](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0001.two-sums)**
 
-✅ **[Remove Duplicates From Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0026.remove-duplicates-from-sorted-array)**
+✅ **[4. Median of Two Sorted Arrays](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0004.median-of-two-sorted-arrays)**
 
-✅ **[Remove Element](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0027.remove-element)**
+✅ **[26. Remove Duplicates From Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0026.remove-duplicates-from-sorted-array)**
 
-✅ **[Search Insert Position](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0035.search-insert-position)**
+✅ **[27. Remove Element](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0027.remove-element)**
 
-✅ **[Plus One](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0066.plus-one)**
+✅ **[35. Search Insert Position](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0035.search-insert-position)**
 
-✅ **[Merge Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0088.merge-sorted-array)**
+✅ **[66. Plus One](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0066.plus-one)**
 
-✅ **[Pascal's Triangle](https://github.com/Razeen-Shaaikh/leetcode/tree/main/problems/0118.pascal's-triangle)**
+✅ **[88. Merge Sorted Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0088.merge-sorted-array)**
 
-✅ **[Median of Two Sorted Arrays](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0004.median-of-two-sorted-arrays)**
+✅ **[118. Pascal's Triangle](https://github.com/Razeen-Shaaikh/leetcode/tree/main/problems/0118.pascal's-triangle)**
 
-✅ **[Find First Palindromic String in the Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2108.find-first-palindromic-string-in-the-array)**
+✅ **[2108. Find First Palindromic String in the Array](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2108.find-first-palindromic-string-in-the-array)**
+
+✅ **[2965. Find Missing and Repeated Values](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2965.find-missing-and-repeated-values)**
 
 ## 🟠 Medium
 
-✅ **[Top K Frequent Elements](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0347.top-k-frequent-elements)**
+✅ **[11. Container with Most Water](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0011.container-with-most-water)**
 
-✅ **[Container with Most Water](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0011.container-with-most-water)**
+✅ **[15. 3Sum](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0015.3sum)**
 
-✅ **[3Sum](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0015.3sum)**
+✅ **[16. 3sum Closest](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0016.3sum-closest)**
 
-✅ **[3sum Closest](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0016.3sum-closest)**
+✅ **[18. 4sum](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0018.4sum)**
 
-✅ **[4sum](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0018.4sum)**
+✅ **[347. Top K Frequent Elements](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0347.top-k-frequent-elements)**
 
 🚧 **[Next Permutation](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0031.next-permutation)**
 
