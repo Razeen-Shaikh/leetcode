@@ -1,7 +1,7 @@
 # LeetCode Problems ![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=yellow)
 
 <!-- LEETCODE:START -->
-![LeetCode Total Solved](https://img.shields.io/badge/LeetCode_Solved-159-orange?style=for-the-badge&logo=leetcode)
+![LeetCode Total Solved](https://img.shields.io/badge/LeetCode_Solved-160-orange?style=for-the-badge&logo=leetcode)
 <!-- LEETCODE:END -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/srazeen?theme=dark&font=Karma&ext=activity)](https://leetcode.com/your_leetcode_username)
