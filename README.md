@@ -21,7 +21,7 @@
 | ✅ **#2108** | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)                | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2108.find-first-palindromic-string-in-the-array)         |
 | ✅ **#2379**  | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2379.minimum-recolors-to-get-k-consecutive-black-blocks) |
 | ✅ **#2965** | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/)                                    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2965.find-missing-and-repeated-values)                   |
-
+| ✅ **#2529** | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer) | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2529.maximum-count-of-positive-integer-and-negative-integer) |
 ## 🎯 Medium LeetCode Problems Solved
 
 | 🆔           | Problem                                                                                                                           | Status       | Solution                                                                                                            |
