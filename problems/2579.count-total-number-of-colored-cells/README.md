@@ -25,3 +25,13 @@ Explanation: After 2 minutes, there are 4 colored cells on the boundary and 1 in
 **Constraints:**
 
 * 1 <= n <= 10^5
+
+## Flowchart for `count-total-number-of-colored-cells.py`
+```
+op14=>operation: class Solution():
+
+    def coloredCells(self, n: int) -> int:
+        return (((2 * n) * (n - 1)) + 1)
+
+
+```

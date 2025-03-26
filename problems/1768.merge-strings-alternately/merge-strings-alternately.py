@@ -12,5 +12,5 @@ class Solution:
         else:
             for i in range(len(word1)):
                 result += word1[i] + word2[i]
-        
+
         return result

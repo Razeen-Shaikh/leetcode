@@ -23,3 +23,16 @@ Output: "doG gniD"
 -   s does not contain any leading or trailing spaces.
 -   There is at least one word in s.
 -   All the words in s are separated by a single space.
+
+## Flowchart for `reverse-words-in-a-string-iii.py`
+```
+op18=>operation: class Solution():
+
+    def reverseWords(self, s: str) -> str:
+        reverse = []
+        for word in s.split(' '):
+            reverse.append(''.join(list(reversed(word))))
+        return ' '.join(reverse)
+
+
+```
