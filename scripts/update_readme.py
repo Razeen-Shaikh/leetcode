@@ -32,8 +32,7 @@ def fetch_leetcode_stats(username):
     if response.status_code == 200:
         data = response.json()
         if "data" in data and data["data"].get("matchedUser"):
-            solved_stats = data["data"]["matchedUser"]["submitStats"]["acSubmissionNum"]
-            return solved_stats
+            return data["data"]["matchedUser"]["submitStats"]["acSubmissionNum"]
     else:
         print(f"❌ API Request Failed: {response.status_code}, Response: {response.text}")
 
@@ -56,8 +55,12 @@ def update_readme(stats):
     for line in readme_lines:
         if "<!-- LEETCODE:START -->" in line:
             inside_section = True
-            new_content.append("<!-- LEETCODE:START -->\n")
-            new_content.append(f"![LeetCode Total Solved]({badge_url})\n")
+            new_content.extend(
+                (
+                    "<!-- LEETCODE:START -->\n",
+                    f"![LeetCode Total Solved]({badge_url})\n",
+                )
+            )
         elif "<!-- LEETCODE:END -->" in line:
             inside_section = False
             new_content.append("<!-- LEETCODE:END -->\n")
@@ -67,9 +70,7 @@ def update_readme(stats):
     with open(README_PATH, "w") as file:
         file.writelines(new_content)
 
-stats = fetch_leetcode_stats(LEETCODE_USERNAME)
-
-if stats:
+if stats := fetch_leetcode_stats(LEETCODE_USERNAME):
     update_readme(stats)
     print("✅ README updated with latest LeetCode stats!")
 else:
