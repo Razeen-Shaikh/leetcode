@@ -2,7 +2,7 @@
 
 <!-- LEETCODE:START -->
 
-![LeetCode Total Solved](https://img.shields.io/badge/LeetCode_Solved-171-orange?style=for-the-badge&logo=leetcode)
+![LeetCode Total Solved](https://img.shields.io/badge/LeetCode_Solved-174-orange?style=for-the-badge&logo=leetcode)
 
 <!-- LEETCODE:END -->
 
