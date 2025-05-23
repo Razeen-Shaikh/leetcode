@@ -1,4 +1,4 @@
-# LeetCode Problems ![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=yellow)
+# LeetCode Problems ![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=yellow) [![Update LeetCode Stats](https://github.com/Razeen-Shaikh/leetcode/actions/workflows/update_readme.yml/badge.svg)](https://github.com/Razeen-Shaikh/leetcode/actions/workflows/update_readme.yml)
 
 <!-- LEETCODE:START -->
 
