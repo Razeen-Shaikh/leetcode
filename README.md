@@ -1,7 +1,9 @@
 # LeetCode Problems ![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=yellow)
 
 <!-- LEETCODE:START -->
+
 ![LeetCode Total Solved](https://img.shields.io/badge/LeetCode_Solved-174-orange?style=for-the-badge&logo=leetcode)
+
 <!-- LEETCODE:END -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/srazeen?theme=dark&font=Karma&ext=activity)](https://leetcode.com/your_leetcode_username)
@@ -39,27 +41,29 @@
 | **#0015** | [3Sum](https://leetcode.com/problems/3sum/)                                                                                            | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0015.3sum)                                               |
 | **#0016** | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                                                            | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0016.3sum-closest)                                       |
 | **#0018** | [4Sum](https://leetcode.com/problems/4sum/)                                                                                            | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0018.4sum)                                               |
+| **#0024** | [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)                                                               | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0024.swap-nodes-in-pairs)                                |
+| **#0061** | [Rotate List](https://leetcode.com/problems/rotate-list)                                                                               | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0061.rotate-list)                                        |
 | **#0347** | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                      | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0347.top-k-frequent-elements)                            |
-| **#0031** | [Next Permutation](https://leetcode.com/problems/next-permutation/)                                                                    | 🚧 In Progress  | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0031.next-permutation)                                   |
-| **#0033** | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                        | 🚧 In Progress  | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0033.search-in-rotated-sorted-array)                     |
+| **#0031** | [Next Permutation](https://leetcode.com/problems/next-permutation/)                                                                    | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0031.next-permutation)                                   |
+| **#0033** | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                        | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0033.search-in-rotated-sorted-array)                     |
 | **#0034** | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element/)      | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0034.find-first-and-last-position-of-element)            |
 | **#0036** | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                            | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0036.valid-sudoku)                                       |
-| **#0039** | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                      | 🚧 In Progress  | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0039.combination-sum)                                    |
-| **#0040** | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)                                                                | 🚧 In Progress  | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0040.combination-sum-ii)                                 |
-| **#0045** | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                                            | 🚧 In Progress  | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0045.jump-game-ii)                                       |
-| **#0046** | [Permutations](https://leetcode.com/problems/permutations/)                                                                            | 🚧 In Progress  | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0046.permutations)                                       |
-| **#0047** | [Permutations II](https://leetcode.com/problems/permutations-ii/)                                                                      | 🚧 In Progress  | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0047.permutations-ii)                                    |
+| **#0039** | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                      | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0039.combination-sum)                                    |
+| **#0040** | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)                                                                | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0040.combination-sum-ii)                                 |
+| **#0045** | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                                            | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0045.jump-game-ii)                                       |
+| **#0046** | [Permutations](https://leetcode.com/problems/permutations/)                                                                            | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0046.permutations)                                       |
+| **#0047** | [Permutations II](https://leetcode.com/problems/permutations-ii/)                                                                      | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0047.permutations-ii)                                    |
 | **#0048** | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                            | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0048.rotate-image)                                       |
 | **#0049** | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                        | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0049.group-anagrams)                                     |
 | **#0053** | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                    | 🤔 Needs Review | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0053.maximum-subarray)                                   |
-| **#0055** | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                                  | 🚧 In Progress  | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0055.jump-game)                                          |
-| **#0056** | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                      | 🚧 In Progress  | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0056.merge-intervals)                                    |
-| **#0057** | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                                      | 🚧 In Progress  | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0057.insert-interval)                                    |
-| **#0054** | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                          | 🚧 In Progress  | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0054.spiral-matrix)                                      |
-| **#0059** | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                                                                    | 🚧 In Progress  | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0059.spiral-matrix-ii)                                   |
+| **#0055** | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                                  | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0055.jump-game)                                          |
+| **#0056** | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                      | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0056.merge-intervals)                                    |
+| **#0057** | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                                      | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0057.insert-interval)                                    |
+| **#0054** | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                          | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0054.spiral-matrix)                                      |
+| **#0059** | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                                                                    | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0059.spiral-matrix-ii)                                   |
 | **#0073** | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                                  | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0073.set-matrix-zeroes)                                  |
-| **#0885** | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)                                                                  | 🚧 In Progress  | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0885.spiral-matrix-iii)                                  |
-| **#2326** | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                                    | 🚧 In Progress  | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2326-spiral-matrix-iv)                                   |
+| **#0885** | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)                                                                  | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0885.spiral-matrix-iii)                                  |
+| **#2326** | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                                    | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2326-spiral-matrix-iv)                                   |
 | **#2523** | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range)                                         | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2523.closest-prime-numbers-in-range)                     |
 | **#3335** | [Total Characters In String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i) | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/3335.total-characters-in-string-after-transformations-i) |
 
@@ -67,13 +71,13 @@
 
 ## 🎯 Hard LeetCode Problems Solved
 
-| 🆔        | Problem                                                                         | Status         | Solution                                                                                           |
-| --------- | ------------------------------------------------------------------------------- | -------------- | -------------------------------------------------------------------------------------------------- |
-| **#0037** | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)                   | 🚧 In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0037.sudoku-solver)          |
-| **#0041** | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🚧 In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0041.first-missing-positive) |
-| **#0042** | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)       | 🚧 In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0042.trapping-rain-water)    |
-| **#0051** | [N-Queens](https://leetcode.com/problems/n-queens/)                             | 🚧 In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0051.n-queens)               |
-| **#0052** | [N-Queens II](https://leetcode.com/problems/n-queens-ii/)                       | 🚧 In Progress | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0052.n-queens-ii)            |
+| 🆔        | Problem                                                                         | Status     | Solution                                                                                           |
+| --------- | ------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------- |
+| **#0037** | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)                   | 🚧 Pending | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0037.sudoku-solver)          |
+| **#0041** | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🚧 Pending | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0041.first-missing-positive) |
+| **#0042** | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)       | 🚧 Pending | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0042.trapping-rain-water)    |
+| **#0051** | [N-Queens](https://leetcode.com/problems/n-queens/)                             | 🚧 Pending | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0051.n-queens)               |
+| **#0052** | [N-Queens II](https://leetcode.com/problems/n-queens-ii/)                       | 🚧 Pending | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0052.n-queens-ii)            |
 
 ---
 
@@ -328,7 +332,7 @@
 
 **[Recyclable and Low Fat Products](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/sql50/1757.recyclable-and-low-fat-products)** -->
 
-<!-- "🚧" (🚧 in progress, actively working on)
+<!-- "🚧" (🚧 Pending, actively working on)
 "🤔" (struggling, 🤔 needs review)
 "📝" (✅ Completed but need to review the solution)
  -->
