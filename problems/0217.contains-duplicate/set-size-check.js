@@ -1,8 +1,7 @@
 /**
- * 217. Contains Duplicate
- * @param {number[]} numb
+ * @param {number[]} nums
  * @return {boolean}
  */
-const containsDuplicate = function (numb) {
+const containsDuplicate = function (nums) {
   return new Set(nums).size !== nums.length;
 };
