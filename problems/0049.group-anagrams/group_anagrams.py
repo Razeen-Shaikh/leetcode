@@ -13,20 +13,12 @@ class Solution:
         """
         anagrams = {}
 
-        # Iterate through each word in the input array
         for word in strs:
-            # Sort the characters of the word
             sorted_word = ''.join(sorted(word))
             
-            # Check if the sorted word exists in the dictionary
             if sorted_word in anagrams:
-                # If it exists, append the original word to the list of anagrams
                 anagrams[sorted_word].append(word)
             else:
-                # If it doesn't exist, create a new list with the original word
                 anagrams[sorted_word] = [word]
-        
-        # Convert the values of the dictionary to a list of lists
-        grouped_anagrams = list(anagrams.values())
-        
-        return grouped_anagrams
+                
+        return list(anagrams.values())
