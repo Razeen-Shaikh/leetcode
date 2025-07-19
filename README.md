@@ -1,7 +1,9 @@
 # LeetCode Problems ![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=yellow) [![Update LeetCode Stats](https://github.com/Razeen-Shaikh/leetcode/actions/workflows/update_readme.yml/badge.svg)](https://github.com/Razeen-Shaikh/leetcode/actions/workflows/update_readme.yml)
 
 <!-- LEETCODE:START -->
+
 ![LeetCode Total Solved](https://img.shields.io/badge/LeetCode_Solved-184-orange?style=for-the-badge&logo=leetcode)
+
 <!-- LEETCODE:END -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/srazeen?theme=dark&font=Karma&ext=activity)](https://leetcode.com/your_leetcode_username)
@@ -64,6 +66,7 @@
 | **#0063** | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii)                                                                       | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0063.unique-paths-ii)                                    | `Array` `Dynamic Programming` `Matrix`        |
 | **#0064** | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)                                                                    | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0064.minimum-path-sum)                                   | `Array` `Dynamic Programming` `Matrix`        |
 | **#0073** | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                                  | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0073.set-matrix-zeroes)                                  |                                               |
+| **#0074** | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)                                                                 | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0074.search-a-2d-matrix)                                 | `Array` `Binary Search` `Matrix`              |
 | **#0347** | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                      | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0347.top-k-frequent-elements)                            |                                               |
 | **#0885** | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)                                                                  | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0885.spiral-matrix-iii)                                  |                                               |
 | **#2326** | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                                    | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2326-spiral-matrix-iv)                                   |                                               |
@@ -85,9 +88,9 @@
 
 <!--
 
-**[Set Matrix Zeroes](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0073.set-matrix-zeroes)**
+****
 
-**[Search a 2D Matrix](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0074.search-a-2d-matrix)**
+****
 
 **[Sort Colors](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0075.sort-colors)**
 
