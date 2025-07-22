@@ -15,7 +15,6 @@ const isValidSudoku = function (board) {
       }
 
       const boxIndex = Math.floor(r / 3) * 3 + Math.floor(c / 3);
-      console.log({ r, c, boxIndex });
 
       if (
         rows[r].has(value) ||
@@ -28,8 +27,6 @@ const isValidSudoku = function (board) {
       rows[r].add(value);
       cols[c].add(value);
       boxes[boxIndex].add(value);
-
-      console.log( {rows:rows[r], cols:cols[c], boxes:boxes[boxIndex]} );
     }
   }
 
