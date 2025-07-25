@@ -21,9 +21,5 @@ class Solution:
         """
         matches = re.findall(r'[a-zA-Z\d]', s)
         sentence = ''.join(matches).lower()
-        reverse_str = ""
-        for i in range(len(sentence)-1, -1, -1):
-            reverse_str += sentence[i]
-        if reverse_str == sentence:
-            return True
-        return False
+        reverse_str = "".join(sentence[i] for i in range(len(sentence)-1, -1, -1))
+        return reverse_str == sentence
