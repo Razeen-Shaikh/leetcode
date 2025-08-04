@@ -19,10 +19,10 @@ const threeSum = function (nums) {
 
       if (sum === 0) {
         result.push([nums[i], nums[left], nums[right]]);
-        while (nums[left] === nums[left + 1]) {
+        while (left < right && nums[left] === nums[left + 1]) {
           left++;
         }
-        while (nums[right] === nums[right - 1]) {
+        while (left < right && nums[right] === nums[right - 1]) {
           right--;
         }
         left++;
