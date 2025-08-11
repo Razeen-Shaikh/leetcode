@@ -4,7 +4,7 @@
  * @param {string} s
  * @return {number}
  */
-var lengthOfLongestSubstring = function (s) {
+const lengthOfLongestSubstring = function (s) {
 	if (!s) {
 		return 0;
 	}
@@ -12,6 +12,7 @@ var lengthOfLongestSubstring = function (s) {
 	let end = 0;
 	let max = 0;
 	let uniques = new Set();
+
 	while (end < s.length) {
 		if (!uniques.has(s[end])) {
 			uniques.add(s[end]);
