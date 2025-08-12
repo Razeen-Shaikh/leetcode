@@ -4,7 +4,7 @@
 ![LeetCode Total Solved](https://img.shields.io/badge/LeetCode_Solved-188-orange?style=for-the-badge&logo=leetcode)
 <!-- LEETCODE:END -->
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/srazeen?theme=dark&font=Karma&ext=activity)](https://leetcode.com/your_leetcode_username)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/srazeen?theme=dark&font=Karma&ext=activity)](https://leetcode.com/srazeen)
 
 ---
 
