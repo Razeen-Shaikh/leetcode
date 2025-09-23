@@ -1,7 +1,9 @@
 # LeetCode Problems ![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=yellow) [![Update LeetCode Stats](https://github.com/Razeen-Shaikh/leetcode/actions/workflows/update_readme.yml/badge.svg)](https://github.com/Razeen-Shaikh/leetcode/actions/workflows/update_readme.yml)
 
 <!-- LEETCODE:START -->
+
 ![LeetCode Total Solved](https://img.shields.io/badge/LeetCode_Solved-190-orange?style=for-the-badge&logo=leetcode)
+
 <!-- LEETCODE:END -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/srazeen?theme=dark&font=Karma&ext=activity)](https://leetcode.com/srazeen)
@@ -78,15 +80,16 @@
 
 ## 🎯 Hard LeetCode Problems Solved
 
-| 🆔        | Problem                                                                             | Status       | Solution                                                                                             | Topics                                       |
-| --------- | ----------------------------------------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| **#0037** | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)                       | 🚧 Pending   | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0037.sudoku-solver)            | `Array` `Hash Table` `Backtracking` `Matrix` |
-| **#0041** | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)     | 🚧 Pending   | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0041.first-missing-positive)   |                                              |
-| **#0042** | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)           | 🚧 Pending   | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0042.trapping-rain-water)      |                                              |
-| **#0051** | [N-Queens](https://leetcode.com/problems/n-queens/)                                 | 🚧 Pending   | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0051.n-queens)                 |                                              |
-| **#0052** | [N-Queens II](https://leetcode.com/problems/n-queens-ii/)                           | 🚧 Pending   | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0052.n-queens-ii)              |                                              |
-| **#0068** | [Text Justification](https://leetcode.com/problems/text-justification/)             | 🚧 Pending   | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0068.text-justification)       | `Array` `String` `Simulation`                |
-| **#0076** | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ✅ Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0076.minimum-window-substring) | `Hash Table` `String` `Sliding Window`       |
+| 🆔        | Problem                                                                             | Status       | Solution                                                                                             | Topics                                                                     |
+| --------- | ----------------------------------------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **#0037** | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)                       | 🚧 Pending   | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0037.sudoku-solver)            | `Array` `Hash Table` `Backtracking` `Matrix`                               |
+| **#0041** | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)     | 🚧 Pending   | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0041.first-missing-positive)   |                                                                            |
+| **#0042** | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)           | 🚧 Pending   | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0042.trapping-rain-water)      |                                                                            |
+| **#0051** | [N-Queens](https://leetcode.com/problems/n-queens/)                                 | 🚧 Pending   | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0051.n-queens)                 |                                                                            |
+| **#0052** | [N-Queens II](https://leetcode.com/problems/n-queens-ii/)                           | 🚧 Pending   | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0052.n-queens-ii)              |                                                                            |
+| **#0068** | [Text Justification](https://leetcode.com/problems/text-justification/)             | 🚧 Pending   | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0068.text-justification)       | `Array` `String` `Simulation`                                              |
+| **#0076** | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ✅ Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0076.minimum-window-substring) | `Hash Table` `String` `Sliding Window`                                     |
+| **#0239** | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)     | ✅ Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0239.sliding-window-maximum)   | `Array` `Queue` `Sliding Window` `Heap (Priority Queue)` `Monotonic Queue` |
 
 <!--
 
