@@ -1,4 +1,4 @@
-var MinStack = function () {
+const MinStack = function () {
   this.stack = [];
   this.minStack = [];
 };
