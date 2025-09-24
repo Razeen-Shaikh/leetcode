@@ -45,4 +45,4 @@ MinStack.prototype.getMin = function () {
  * obj.pop()
  * var param_3 = obj.top()
  * var param_4 = obj.getMin()
- */ s;
+ */;
