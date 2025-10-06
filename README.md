@@ -1,7 +1,9 @@
 # LeetCode Problems ![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=yellow) [![Update LeetCode Stats](https://github.com/Razeen-Shaikh/leetcode/actions/workflows/update_readme.yml/badge.svg)](https://github.com/Razeen-Shaikh/leetcode/actions/workflows/update_readme.yml)
 
 <!-- LEETCODE:START -->
+
 ![LeetCode Total Solved](https://img.shields.io/badge/LeetCode_Solved-194-orange?style=for-the-badge&logo=leetcode)
+
 <!-- LEETCODE:END -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/srazeen?theme=dark&font=Karma&ext=activity)](https://leetcode.com/srazeen)
@@ -25,6 +27,7 @@
 | **#0121** | [Best Time To Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                                               | ✅ Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0121.best-time-to-buy-and-sell-stock)                        | `Array` `Dynamic Programming`                |
 | **#0217** | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                        | ✅ Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0217.contains-duplicate)                                     | `Array` `Hash Table` `Sorting`               |
 | **#0242** | [Valid Anagram](https://leetcode.com/problems/valid-anagram)                                                                                   | ✅ Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0242.valid-anagram)                                          | `Hash Table` `String` `Sorting`              |
+| **#0704** | [Binary Search](https://leetcode.com/problems/binary-search)                                                                                   | ✅ Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0704.binary-search)                                          | `Array` `Binary Search`                      |
 | **#2094** | [Finding 3 Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/)                                                    | ✅ Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2094.finding-3-digit-even-numbers)                           |                                              |
 | **#2108** | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)                        | ✅ Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2108.find-first-palindromic-string-in-the-array)             |                                              |
 | **#2379** | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks)         | ✅ Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2379.minimum-recolors-to-get-k-consecutive-black-blocks)     |                                              |
