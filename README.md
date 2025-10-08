@@ -1,7 +1,9 @@
 # LeetCode Problems ![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=yellow) [![Update LeetCode Stats](https://github.com/Razeen-Shaikh/leetcode/actions/workflows/update_readme.yml/badge.svg)](https://github.com/Razeen-Shaikh/leetcode/actions/workflows/update_readme.yml)
 
 <!-- LEETCODE:START -->
+
 ![LeetCode Total Solved](https://img.shields.io/badge/LeetCode_Solved-196-orange?style=for-the-badge&logo=leetcode)
+
 <!-- LEETCODE:END -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/srazeen?theme=dark&font=Karma&ext=activity)](https://leetcode.com/srazeen)
@@ -74,6 +76,7 @@
 | **#0347** | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                      | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0347.top-k-frequent-elements)                            | `Array` `Hash Table` `Divide and Conquer` `Sorting` `Heap (Priority Queue)` `Bucket Sort` `Counting` `Quickselect` |
 | **#0567** | [Permutation in String](https://leetcode.com/problems/permutation-in-string)                                                           | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0567.permutation-in-string)                              | `Hash Table` `Two Pointers` `String` `Sliding Window`                                                              |
 | **#0739** | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                                                                | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0739.daily-temperatures)                                 | `Array` `Stack` `Monotonic Stack` `Weekly Contest 61`                                                              |
+| **#0875** | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)                                                               | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0875.koko-eating-bananas)                                | `Array` `Binary Search` `Weekly Contest 94`                                                                        |
 | **#0885** | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)                                                                  | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0885.spiral-matrix-iii)                                  | `Array` `Matrix` `Simulation` `Weekly Contest 97 `                                                                 |
 | **#2326** | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                                    | 🚧 Pending      | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2326-spiral-matrix-iv)                                   |                                                                                                                    |
 | **#2523** | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range)                                         | ✅ Completed    | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/2523.closest-prime-numbers-in-range)                     |                                                                                                                    |
