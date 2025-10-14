@@ -1,7 +1,9 @@
 # LeetCode Problems ![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=yellow) [![Update LeetCode Stats](https://github.com/Razeen-Shaikh/leetcode/actions/workflows/update_readme.yml/badge.svg)](https://github.com/Razeen-Shaikh/leetcode/actions/workflows/update_readme.yml)
 
 <!-- LEETCODE:START -->
+
 ![LeetCode Total Solved](https://img.shields.io/badge/LeetCode_Solved-200-orange?style=for-the-badge&logo=leetcode)
+
 <!-- LEETCODE:END -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/srazeen?theme=dark&font=Karma&ext=activity)](https://leetcode.com/srazeen)
@@ -23,6 +25,7 @@
 | **#0088** | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                        | ✅ Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0088.merge-sorted-array)                                     |                                              |
 | **#0118** | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                           | ✅ Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0118.pascal's-triangle)                                      |                                              |
 | **#0121** | [Best Time To Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                                               | ✅ Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0121.best-time-to-buy-and-sell-stock)                        | `Array` `Dynamic Programming`                |
+| **#0141** | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                          | ✅ Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0141.linked-list-cycle)                                      | `Hash Table` `Linked List` `Two Pointers`    |
 | **#0206** | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                      | ✅ Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0206.reverse-linked-list)                                    | `Linked List` `Recursion`                    |
 | **#0217** | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                        | ✅ Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0217.contains-duplicate)                                     | `Array` `Hash Table` `Sorting`               |
 | **#0242** | [Valid Anagram](https://leetcode.com/problems/valid-anagram)                                                                                   | ✅ Completed | [GitHub](https://github.com/Razeen-Shaikh/leetcode/tree/main/problems/0242.valid-anagram)                                          | `Hash Table` `String` `Sorting`              |
